@@ -35,8 +35,8 @@ Painel Django Admin para gerenciamento completo de questões e usuários.
 ### Tecnologias Utilizadas
 Backend
 Python 3.11.7
-
-Django 5.1.7
+Pip 25.0.1
+Django 5.2
 
 Django REST Framework (opcional para APIs futuras)
 
